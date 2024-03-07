@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/deekshitha2909",
-  linkedin: "https://www.linkedin.com/in/deekshitha-reddy-chappidi/",
+  linkedin: "https://www.linkedin.com/in/deekshitha-chappidi/",
   gmail: "deekshitha.chappidi@gmail.com",
   // gitlab: "https://gitlab.com/saadpasta",
   // facebook: "https://www.facebook.com/saad.pasta7",
@@ -110,7 +110,7 @@ const techStack = {
       progressPercentage: "90%"
     },
     {
-      Stack: "Analytic Skills",
+      Stack: "Analytical Skills",
       progressPercentage: "80%"
     }
   ],
